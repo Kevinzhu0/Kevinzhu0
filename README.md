@@ -28,6 +28,11 @@
 
 
 
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=Kevinzhu0&abbreviated=true&color=yellow" />
+</p>
+
 <!--The end -->
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
